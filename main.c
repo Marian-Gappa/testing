@@ -2,6 +2,7 @@
 
 int print()
 {
+  printf("TESTING ");
   printf("HELLO WORLD\n");
 }
 
